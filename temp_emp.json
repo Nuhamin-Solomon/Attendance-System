@@ -1,0 +1,2509 @@
+{
+  "data": [
+    {
+      "department": "Executive Office",
+      "email": null,
+      "emp_code": "1",
+      "first_name": "Munir",
+      "last_name": "Duri",
+      "mobile": null
+    },
+    {
+      "department": "Admin Support",
+      "email": null,
+      "emp_code": "10",
+      "first_name": "Getahun",
+      "last_name": "Degefaw",
+      "mobile": null
+    },
+    {
+      "department": "IDD",
+      "email": null,
+      "emp_code": "1018",
+      "first_name": "Abdul",
+      "last_name": "Malik",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "1019",
+      "first_name": "Abdurazak",
+      "last_name": "Abrar",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "1023",
+      "first_name": "Bizuwork",
+      "last_name": "Fekibelu",
+      "mobile": null
+    },
+    {
+      "department": "Program Delivery",
+      "email": null,
+      "emp_code": "1025",
+      "first_name": "Fasil",
+      "last_name": "Kelemwork",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "1027",
+      "first_name": "Getasew",
+      "last_name": "Tesfaw",
+      "mobile": null
+    },
+    {
+      "department": "AgriFin Tech",
+      "email": null,
+      "emp_code": "1029",
+      "first_name": "Henock",
+      "last_name": "Seifu",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "1032",
+      "first_name": "Hussen",
+      "last_name": "Seid",
+      "mobile": null
+    },
+    {
+      "department": "Skills and Financial Literacy",
+      "email": null,
+      "emp_code": "1034",
+      "first_name": "Kassahun",
+      "last_name": "Aman",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "1035",
+      "first_name": "Melkam",
+      "last_name": "Abraham",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "1036",
+      "first_name": "Meron",
+      "last_name": "Desta",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "1039",
+      "first_name": "Nahom",
+      "last_name": "Ketsela",
+      "mobile": null
+    },
+    {
+      "department": "Admin",
+      "email": null,
+      "emp_code": "104",
+      "first_name": "Fantahun",
+      "last_name": "Mohammed",
+      "mobile": null
+    },
+    {
+      "department": "Financial and Market Linkage Solution",
+      "email": null,
+      "emp_code": "1044",
+      "first_name": "Tsion",
+      "last_name": "Mekasha",
+      "mobile": null
+    },
+    {
+      "department": "AgriFin Tech",
+      "email": null,
+      "emp_code": "1045",
+      "first_name": "Yonas",
+      "last_name": "Gashaw",
+      "mobile": null
+    },
+    {
+      "department": "Admin Support",
+      "email": null,
+      "emp_code": "105",
+      "first_name": "Betelhem",
+      "last_name": "Wondemu",
+      "mobile": null
+    },
+    {
+      "department": "IDD",
+      "email": null,
+      "emp_code": "1050",
+      "first_name": "Yonathan",
+      "last_name": "Seyoum",
+      "mobile": null
+    },
+    {
+      "department": "IDD",
+      "email": null,
+      "emp_code": "106",
+      "first_name": "Mikiyas",
+      "last_name": "Tsegaye",
+      "mobile": null
+    },
+    {
+      "department": "Admin Support",
+      "email": null,
+      "emp_code": "108",
+      "first_name": "Sadik",
+      "last_name": "Yasin",
+      "mobile": null
+    },
+    {
+      "department": "Smart Mobility",
+      "email": null,
+      "emp_code": "109",
+      "first_name": "Dereje",
+      "last_name": "Goshu",
+      "mobile": null
+    },
+    {
+      "department": "Program Delivery",
+      "email": null,
+      "emp_code": "1094",
+      "first_name": "Simret",
+      "last_name": "Simano",
+      "mobile": null
+    },
+    {
+      "department": "Group Finance",
+      "email": null,
+      "emp_code": "1095",
+      "first_name": "Zuber",
+      "last_name": "Momoniat",
+      "mobile": null
+    },
+    {
+      "department": "Financial and Market Linkage Solution",
+      "email": null,
+      "emp_code": "1096",
+      "first_name": "Eyerusalem",
+      "last_name": "Teshome",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "1098",
+      "first_name": "Berhanu",
+      "last_name": "Tarekegn",
+      "mobile": null
+    },
+    {
+      "department": "Admin",
+      "email": null,
+      "emp_code": "1099",
+      "first_name": "Melese",
+      "last_name": "Tiruneh",
+      "mobile": null
+    },
+    {
+      "department": "CEO Delivery Unit",
+      "email": null,
+      "emp_code": "1100",
+      "first_name": "Kedir",
+      "last_name": "Musa",
+      "mobile": null
+    },
+    {
+      "department": "AgriFin Tech",
+      "email": null,
+      "emp_code": "1101",
+      "first_name": "Seid",
+      "last_name": "Shemsu",
+      "mobile": null
+    },
+    {
+      "department": "AgriFin Tech",
+      "email": null,
+      "emp_code": "1120",
+      "first_name": "Dilu",
+      "last_name": "Kefale",
+      "mobile": null
+    },
+    {
+      "department": "Skills and Financial Literacy",
+      "email": null,
+      "emp_code": "1121",
+      "first_name": "Temesgen",
+      "last_name": "Sisay",
+      "mobile": null
+    },
+    {
+      "department": "Skills and Financial Literacy",
+      "email": null,
+      "emp_code": "1124",
+      "first_name": "Bezawit",
+      "last_name": "Leulseged",
+      "mobile": null
+    },
+    {
+      "department": "Executive Office",
+      "email": null,
+      "emp_code": "1142",
+      "first_name": "Mahlet",
+      "last_name": "Isreal",
+      "mobile": null
+    },
+    {
+      "department": "MERL",
+      "email": null,
+      "emp_code": "1144",
+      "first_name": "Milkiyas",
+      "last_name": "Lekeleh",
+      "mobile": null
+    },
+    {
+      "department": "Program Delivery",
+      "email": null,
+      "emp_code": "1146",
+      "first_name": "Tihitina",
+      "last_name": "Habtamu",
+      "mobile": null
+    },
+    {
+      "department": "Executive Office",
+      "email": null,
+      "emp_code": "1147",
+      "first_name": "Degol",
+      "last_name": "Gossaye",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "1148",
+      "first_name": "Lidiya",
+      "last_name": "Abebe",
+      "mobile": null
+    },
+    {
+      "department": "CEO Delivery Unit",
+      "email": null,
+      "emp_code": "1149",
+      "first_name": "Abdurezak",
+      "last_name": "Shemsu",
+      "mobile": null
+    },
+    {
+      "department": "AgriFin Tech",
+      "email": null,
+      "emp_code": "1150",
+      "first_name": "Asrat",
+      "last_name": "Adane",
+      "mobile": null
+    },
+    {
+      "department": "SHARIA COMPLIANT FMLS",
+      "email": null,
+      "emp_code": "1153",
+      "first_name": "Mesfin",
+      "last_name": "Bezu",
+      "mobile": null
+    },
+    {
+      "department": "People and Culture",
+      "email": null,
+      "emp_code": "1158",
+      "first_name": "Abiy",
+      "last_name": "Getachew",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "1190",
+      "first_name": "Kelkias",
+      "last_name": "Emana",
+      "mobile": null
+    },
+    {
+      "department": "AgriFin Tech",
+      "email": null,
+      "emp_code": "1196",
+      "first_name": "Reward",
+      "last_name": "George",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "1198",
+      "first_name": "Mikias",
+      "last_name": "Shemsu",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "1199",
+      "first_name": "Eyob",
+      "last_name": "Negus",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "1200",
+      "first_name": "Kirubel",
+      "last_name": "Menberu",
+      "mobile": null
+    },
+    {
+      "department": "AgriFin Tech",
+      "email": null,
+      "emp_code": "1201",
+      "first_name": "Sara",
+      "last_name": "Jihad",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "1202",
+      "first_name": "Zekiya",
+      "last_name": "Haile",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "1203",
+      "first_name": "Mengaye",
+      "last_name": "Yechale",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "1204",
+      "first_name": "Ermias",
+      "last_name": "Birhane",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "1205",
+      "first_name": "Rediaet",
+      "last_name": "Wegayehu",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "1206",
+      "first_name": "Elnatal",
+      "last_name": "Debebe",
+      "mobile": null
+    },
+    {
+      "department": "AgriFin Tech",
+      "email": null,
+      "emp_code": "1207",
+      "first_name": "Thomas",
+      "last_name": "Getachew",
+      "mobile": null
+    },
+    {
+      "department": "Financial and Market Linkage Solution",
+      "email": null,
+      "emp_code": "1209",
+      "first_name": "Zerfu",
+      "last_name": "Worku",
+      "mobile": null
+    },
+    {
+      "department": "IDD",
+      "email": null,
+      "emp_code": "1210",
+      "first_name": "Tewodros",
+      "last_name": "Alemu",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "1211",
+      "first_name": "Imran",
+      "last_name": "Abdulkadir",
+      "mobile": null
+    },
+    {
+      "department": "Engineering and Technology",
+      "email": null,
+      "emp_code": "1212",
+      "first_name": "Daniel",
+      "last_name": "Basazinew",
+      "mobile": null
+    },
+    {
+      "department": "People and Culture",
+      "email": null,
+      "emp_code": "1213",
+      "first_name": "Kidist",
+      "last_name": "Kubie",
+      "mobile": null
+    },
+    {
+      "department": "SFL, PRM and MERL",
+      "email": null,
+      "emp_code": "1214",
+      "first_name": "Desalegn",
+      "last_name": "Abebe",
+      "mobile": null
+    },
+    {
+      "department": "IDD",
+      "email": null,
+      "emp_code": "1215",
+      "first_name": "Helina",
+      "last_name": "Abebel",
+      "mobile": null
+    },
+    {
+      "department": "IDD",
+      "email": null,
+      "emp_code": "1216",
+      "first_name": "Ermiyas",
+      "last_name": "Neway",
+      "mobile": null
+    },
+    {
+      "department": "Engineering and Technology",
+      "email": null,
+      "emp_code": "1217",
+      "first_name": "Ephrem",
+      "last_name": "Sisay",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "1232",
+      "first_name": "Haben",
+      "last_name": "Kiflewahd",
+      "mobile": null
+    },
+    {
+      "department": "IDD",
+      "email": null,
+      "emp_code": "1233",
+      "first_name": "Eden",
+      "last_name": "Wondossen",
+      "mobile": null
+    },
+    {
+      "department": "IDD",
+      "email": null,
+      "emp_code": "1234",
+      "first_name": "Ezra",
+      "last_name": "Mesfin",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "124",
+      "first_name": "Kebron",
+      "last_name": "Daniel",
+      "mobile": null
+    },
+    {
+      "department": "AgriFin Tech",
+      "email": null,
+      "emp_code": "125",
+      "first_name": "Matiyas",
+      "last_name": "Birhane",
+      "mobile": null
+    },
+    {
+      "department": "CEO Delivery Unit",
+      "email": null,
+      "emp_code": "1258",
+      "first_name": "Lara",
+      "last_name": "Higgo",
+      "mobile": null
+    },
+    {
+      "department": "Research and Strategy",
+      "email": null,
+      "emp_code": "1259",
+      "first_name": "Hikma",
+      "last_name": "Sultan",
+      "mobile": null
+    },
+    {
+      "department": "Financial and Market Linkage Solution",
+      "email": null,
+      "emp_code": "126",
+      "first_name": "Habtamu",
+      "last_name": "Worku",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "1260",
+      "first_name": "Mahlet",
+      "last_name": "H Gebriel",
+      "mobile": null
+    },
+    {
+      "department": "IDD",
+      "email": null,
+      "emp_code": "1261",
+      "first_name": "Nahom",
+      "last_name": "Habtemichael",
+      "mobile": null
+    },
+    {
+      "department": "MERL",
+      "email": null,
+      "emp_code": "1263",
+      "first_name": "Eyerusalem",
+      "last_name": "Asheber",
+      "mobile": null
+    },
+    {
+      "department": "Financial and Market Linkage Solution",
+      "email": null,
+      "emp_code": "127",
+      "first_name": "Melkachew",
+      "last_name": "Temesgen",
+      "mobile": null
+    },
+    {
+      "department": "Engineering and Technology",
+      "email": null,
+      "emp_code": "1272",
+      "first_name": "Bushra",
+      "last_name": "Mustofa",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "1273",
+      "first_name": "Tarik",
+      "last_name": "Teshome",
+      "mobile": null
+    },
+    {
+      "department": "Group CTO",
+      "email": null,
+      "emp_code": "1274",
+      "first_name": "Yirga",
+      "last_name": "Mulaw",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "1275",
+      "first_name": "Lidiya",
+      "last_name": "Abate",
+      "mobile": null
+    },
+    {
+      "department": "Smart Mobility",
+      "email": null,
+      "emp_code": "1276",
+      "first_name": "Endale",
+      "last_name": "Worku",
+      "mobile": null
+    },
+    {
+      "department": "Financial and Market Linkage Solution",
+      "email": null,
+      "emp_code": "1277",
+      "first_name": "Habtamu",
+      "last_name": "Worku",
+      "mobile": null
+    },
+    {
+      "department": "MERL",
+      "email": null,
+      "emp_code": "1278",
+      "first_name": "Natai",
+      "last_name": "Tamiru",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "1279",
+      "first_name": "Meskrem",
+      "last_name": "Zelalem",
+      "mobile": null
+    },
+    {
+      "department": "Financial and Market Linkage Solution",
+      "email": null,
+      "emp_code": "128",
+      "first_name": "Lealem",
+      "last_name": "Terefe",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "1280",
+      "first_name": "Abebe",
+      "last_name": "Guta",
+      "mobile": null
+    },
+    {
+      "department": "IDD",
+      "email": null,
+      "emp_code": "1283",
+      "first_name": "Biruk",
+      "last_name": "Getaneh",
+      "mobile": null
+    },
+    {
+      "department": "Research and Strategy",
+      "email": null,
+      "emp_code": "1284",
+      "first_name": "Mahlet",
+      "last_name": "Kinfe",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "1285",
+      "first_name": "Hiwot",
+      "last_name": "Tadesse",
+      "mobile": null
+    },
+    {
+      "department": "People and Culture",
+      "email": null,
+      "emp_code": "1286",
+      "first_name": "Dagmawit",
+      "last_name": "Dinku",
+      "mobile": null
+    },
+    {
+      "department": "Admin Support",
+      "email": null,
+      "emp_code": "1293",
+      "first_name": "Estifanos",
+      "last_name": "Samuel",
+      "mobile": null
+    },
+    {
+      "department": "Group Finance",
+      "email": null,
+      "emp_code": "1298",
+      "first_name": "Eric",
+      "last_name": "Chege",
+      "mobile": null
+    },
+    {
+      "department": "MERL",
+      "email": null,
+      "emp_code": "1299",
+      "first_name": "Abdu",
+      "last_name": "Ebrahim",
+      "mobile": null
+    },
+    {
+      "department": "MERL",
+      "email": null,
+      "emp_code": "1300",
+      "first_name": "Bizunesh",
+      "last_name": "Gelaw",
+      "mobile": null
+    },
+    {
+      "department": "Program Delivery",
+      "email": null,
+      "emp_code": "1302",
+      "first_name": "Tekuam",
+      "last_name": "Amare",
+      "mobile": null
+    },
+    {
+      "department": "Research and Strategy",
+      "email": null,
+      "emp_code": "1303",
+      "first_name": "Metasebia",
+      "last_name": "Feleke",
+      "mobile": null
+    },
+    {
+      "department": "Financial and Market Linkage Solution",
+      "email": null,
+      "emp_code": "1307",
+      "first_name": "Henok",
+      "last_name": "Shiferaw",
+      "mobile": null
+    },
+    {
+      "department": "Program Delivery",
+      "email": null,
+      "emp_code": "1308",
+      "first_name": "Getu",
+      "last_name": "Temesgen",
+      "mobile": null
+    },
+    {
+      "department": "Program Delivery",
+      "email": null,
+      "emp_code": "1309",
+      "first_name": "Robel",
+      "last_name": "Hailu",
+      "mobile": null
+    },
+    {
+      "department": "Smart Mobility",
+      "email": null,
+      "emp_code": "131",
+      "first_name": "Nahom",
+      "last_name": "Tadesse",
+      "mobile": null
+    },
+    {
+      "department": "Financial and Market Linkage Solution",
+      "email": null,
+      "emp_code": "1320",
+      "first_name": "Elias",
+      "last_name": "Abdulmalik",
+      "mobile": null
+    },
+    {
+      "department": "Group Finance",
+      "email": null,
+      "emp_code": "1321",
+      "first_name": "Nebiyu",
+      "last_name": "Shimeles",
+      "mobile": null
+    },
+    {
+      "department": "Program Delivery",
+      "email": null,
+      "emp_code": "1322",
+      "first_name": "Annaliese",
+      "last_name": "Marie Koontz",
+      "mobile": null
+    },
+    {
+      "department": "Program Delivery",
+      "email": null,
+      "emp_code": "1323",
+      "first_name": "Mariamawit",
+      "last_name": "Gezahegn",
+      "mobile": null
+    },
+    {
+      "department": "MERL",
+      "email": null,
+      "emp_code": "1324",
+      "first_name": "Hermela",
+      "last_name": "Wondwossen",
+      "mobile": null
+    },
+    {
+      "department": "People and Culture",
+      "email": null,
+      "emp_code": "1325",
+      "first_name": "Dagmawi",
+      "last_name": "Dawit",
+      "mobile": null
+    },
+    {
+      "department": "IDD",
+      "email": null,
+      "emp_code": "1333",
+      "first_name": "Michael",
+      "last_name": "Getachew",
+      "mobile": null
+    },
+    {
+      "department": "MERL",
+      "email": null,
+      "emp_code": "1334",
+      "first_name": "Leyla",
+      "last_name": "Binur",
+      "mobile": null
+    },
+    {
+      "department": "IDD",
+      "email": null,
+      "emp_code": "1335",
+      "first_name": "Mastewal",
+      "last_name": "Mulugeta",
+      "mobile": null
+    },
+    {
+      "department": "Financial and Market Linkage Solution",
+      "email": null,
+      "emp_code": "1336",
+      "first_name": "Joshua",
+      "last_name": "Kemboi",
+      "mobile": null
+    },
+    {
+      "department": "Admin",
+      "email": null,
+      "emp_code": "1337",
+      "first_name": "Bethelhem",
+      "last_name": "Getachew",
+      "mobile": null
+    },
+    {
+      "department": "IDD",
+      "email": null,
+      "emp_code": "1339",
+      "first_name": "Ruth",
+      "last_name": "Tamiru",
+      "mobile": null
+    },
+    {
+      "department": "IDD",
+      "email": null,
+      "emp_code": "1340",
+      "first_name": "Rediet",
+      "last_name": "Degu",
+      "mobile": null
+    },
+    {
+      "department": "Financial and Market Linkage Solution",
+      "email": null,
+      "emp_code": "14",
+      "first_name": "Mesele",
+      "last_name": "Wako",
+      "mobile": null
+    },
+    {
+      "department": "Admin Support",
+      "email": null,
+      "emp_code": "143",
+      "first_name": "Deme",
+      "last_name": "Megersa",
+      "mobile": null
+    },
+    {
+      "department": "Executive Office",
+      "email": null,
+      "emp_code": "144",
+      "first_name": "Woyneab",
+      "last_name": "Sahilu",
+      "mobile": null
+    },
+    {
+      "department": "MERL",
+      "email": null,
+      "emp_code": "1442",
+      "first_name": "Semir",
+      "last_name": "Mohammed",
+      "mobile": null
+    },
+    {
+      "department": "Program Delivery",
+      "email": null,
+      "emp_code": "1443",
+      "first_name": "Beimnet",
+      "last_name": "Mesfin",
+      "mobile": null
+    },
+    {
+      "department": "IDD",
+      "email": null,
+      "emp_code": "1444",
+      "first_name": "Fanuel",
+      "last_name": "Haftu",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "1445",
+      "first_name": "Fanuel",
+      "last_name": "Yemane",
+      "mobile": null
+    },
+    {
+      "department": "Program Delivery",
+      "email": null,
+      "emp_code": "1446",
+      "first_name": "Abdulaziz",
+      "last_name": "Mohammed",
+      "mobile": null
+    },
+    {
+      "department": "MERL",
+      "email": null,
+      "emp_code": "1447",
+      "first_name": "Israel",
+      "last_name": "Tewodros",
+      "mobile": null
+    },
+    {
+      "department": "Digitial Transformation",
+      "email": null,
+      "emp_code": "1459",
+      "first_name": "Kulani",
+      "last_name": "Melaku",
+      "mobile": null
+    },
+    {
+      "department": "Digitial Transformation",
+      "email": null,
+      "emp_code": "146",
+      "first_name": "Eleni",
+      "last_name": "Zelalem",
+      "mobile": null
+    },
+    {
+      "department": "Executive Office",
+      "email": null,
+      "emp_code": "1461",
+      "first_name": "Urjii",
+      "last_name": "Megerssa",
+      "mobile": null
+    },
+    {
+      "department": "Financial and Market Linkage Solution",
+      "email": null,
+      "emp_code": "1462",
+      "first_name": "Nuhamin",
+      "last_name": "Alemayehu",
+      "mobile": null
+    },
+    {
+      "department": "Research and Strategy",
+      "email": null,
+      "emp_code": "1463",
+      "first_name": "Bethelehem",
+      "last_name": "Ketema",
+      "mobile": null
+    },
+    {
+      "department": "Admin Support",
+      "email": null,
+      "emp_code": "1464",
+      "first_name": "Tewodros",
+      "last_name": "Gessess",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "147",
+      "first_name": "Nathnael",
+      "last_name": "Jemaneh",
+      "mobile": null
+    },
+    {
+      "department": "SHARIA COMPLIANT FMLS",
+      "email": null,
+      "emp_code": "1471",
+      "first_name": "Elias",
+      "last_name": "Jemal",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "149",
+      "first_name": "Abraham",
+      "last_name": "Mesfin",
+      "mobile": null
+    },
+    {
+      "department": "Program Finance",
+      "email": null,
+      "emp_code": "15",
+      "first_name": "Dawit",
+      "last_name": "Argaw",
+      "mobile": null
+    },
+    {
+      "department": "Skills and Financial Literacy",
+      "email": null,
+      "emp_code": "1520",
+      "first_name": "Michael",
+      "last_name": "Sagawa",
+      "mobile": null
+    },
+    {
+      "department": "CapTech",
+      "email": null,
+      "emp_code": "1521",
+      "first_name": "Hailemariam",
+      "last_name": "Mecca",
+      "mobile": null
+    },
+    {
+      "department": "IDD",
+      "email": null,
+      "emp_code": "1522",
+      "first_name": "Alexander",
+      "last_name": "Takele",
+      "mobile": null
+    },
+    {
+      "department": "Group CTO",
+      "email": null,
+      "emp_code": "1524",
+      "first_name": "Sintayehu",
+      "last_name": "Feleke",
+      "mobile": null
+    },
+    {
+      "department": "Legal, Risk and Governance",
+      "email": null,
+      "emp_code": "1525",
+      "first_name": "Fitsum",
+      "last_name": "Sitotaw",
+      "mobile": null
+    },
+    {
+      "department": "Executive Office",
+      "email": null,
+      "emp_code": "1526",
+      "first_name": "Aida",
+      "last_name": "Belete",
+      "mobile": null
+    },
+    {
+      "department": "IDD",
+      "email": null,
+      "emp_code": "1528",
+      "first_name": "Aemiro",
+      "last_name": "Mekete",
+      "mobile": null
+    },
+    {
+      "department": "Program Delivery",
+      "email": null,
+      "emp_code": "1529",
+      "first_name": "Sara",
+      "last_name": "Seyoum",
+      "mobile": null
+    },
+    {
+      "department": "Country Finance",
+      "email": null,
+      "emp_code": "153",
+      "first_name": "Velina",
+      "last_name": "Hagos",
+      "mobile": null
+    },
+    {
+      "department": "Core Analytics",
+      "email": null,
+      "emp_code": "1530",
+      "first_name": "Beabsira",
+      "last_name": "Yenezer",
+      "mobile": null
+    },
+    {
+      "department": "Skills and Financial Literacy",
+      "email": null,
+      "emp_code": "1532",
+      "first_name": "Mark",
+      "last_name": "Seth",
+      "mobile": null
+    },
+    {
+      "department": "Smart Mobility",
+      "email": null,
+      "emp_code": "1544",
+      "first_name": "Mengesha",
+      "last_name": "Girma",
+      "mobile": null
+    },
+    {
+      "department": "Skills and Financial Literacy",
+      "email": null,
+      "emp_code": "1545",
+      "first_name": "Tirsit",
+      "last_name": "Mamuye",
+      "mobile": null
+    },
+    {
+      "department": "Financial and Market Linkage Solution",
+      "email": null,
+      "emp_code": "1546",
+      "first_name": "Yehulashet",
+      "last_name": "Alemayhu",
+      "mobile": null
+    },
+    {
+      "department": "MERL",
+      "email": null,
+      "emp_code": "1547",
+      "first_name": "Sandra",
+      "last_name": "Alemayhu",
+      "mobile": null
+    },
+    {
+      "department": "People and Culture",
+      "email": null,
+      "emp_code": "1549",
+      "first_name": "Meryem",
+      "last_name": "Akmel",
+      "mobile": null
+    },
+    {
+      "department": "Admin",
+      "email": null,
+      "emp_code": "155",
+      "first_name": "Yoadan",
+      "last_name": "Girma",
+      "mobile": null
+    },
+    {
+      "department": "Research and Strategy",
+      "email": null,
+      "emp_code": "1577",
+      "first_name": "Tekeste",
+      "last_name": "Gebrewold",
+      "mobile": null
+    },
+    {
+      "department": "Financial and Market Linkage Solution",
+      "email": null,
+      "emp_code": "1579",
+      "first_name": "Elias",
+      "last_name": "Emiru",
+      "mobile": null
+    },
+    {
+      "department": "Communications",
+      "email": null,
+      "emp_code": "1580",
+      "first_name": "Nebyat",
+      "last_name": "Adugna",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "1597",
+      "first_name": "Yidnekachew",
+      "last_name": "Tamirat",
+      "mobile": null
+    },
+    {
+      "department": "Smart Mobility",
+      "email": null,
+      "emp_code": "16",
+      "first_name": "Abdela",
+      "last_name": "Kedir",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "160",
+      "first_name": "Gebeyaw",
+      "last_name": "Tigabu",
+      "mobile": null
+    },
+    {
+      "department": "Cyber Security",
+      "email": null,
+      "emp_code": "1612",
+      "first_name": "Genet",
+      "last_name": "Shibru",
+      "mobile": null
+    },
+    {
+      "department": "Admin Support",
+      "email": null,
+      "emp_code": "17",
+      "first_name": "Solomon",
+      "last_name": "Teferi",
+      "mobile": null
+    },
+    {
+      "department": "CapTech",
+      "email": null,
+      "emp_code": "192",
+      "first_name": "Mastewal",
+      "last_name": "Yohannes",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "197",
+      "first_name": "Kirubel",
+      "last_name": "Shimelse",
+      "mobile": null
+    },
+    {
+      "department": "IDD",
+      "email": null,
+      "emp_code": "198",
+      "first_name": "Mussie",
+      "last_name": "Haile",
+      "mobile": null
+    },
+    {
+      "department": "Country Finance",
+      "email": null,
+      "emp_code": "2",
+      "first_name": "Haymanot",
+      "last_name": "Abebe",
+      "mobile": null
+    },
+    {
+      "department": "IT Operations",
+      "email": null,
+      "emp_code": "20",
+      "first_name": "Yosef",
+      "last_name": "Maregn",
+      "mobile": null
+    },
+    {
+      "department": "Admin Support",
+      "email": null,
+      "emp_code": "200",
+      "first_name": "Tesfalem",
+      "last_name": "Bezabih",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "202",
+      "first_name": "Filimon",
+      "last_name": "Mehari",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "207",
+      "first_name": "Mikias",
+      "last_name": "Hailu",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "209",
+      "first_name": "Saron",
+      "last_name": "Tilahun",
+      "mobile": null
+    },
+    {
+      "department": "Admin",
+      "email": null,
+      "emp_code": "210",
+      "first_name": "Tesfanesh",
+      "last_name": "Mulatu",
+      "mobile": null
+    },
+    {
+      "department": "Legal, Risk and Governance",
+      "email": null,
+      "emp_code": "211",
+      "first_name": "Muluneh",
+      "last_name": "Bayabil",
+      "mobile": null
+    },
+    {
+      "department": "Executive Office",
+      "email": null,
+      "emp_code": "213",
+      "first_name": "Hayat",
+      "last_name": "Abdulmalik",
+      "mobile": null
+    },
+    {
+      "department": "Smart Mobility",
+      "email": null,
+      "emp_code": "214",
+      "first_name": "Eyuel",
+      "last_name": "Belete",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "216",
+      "first_name": "Gelila",
+      "last_name": "Mamo",
+      "mobile": null
+    },
+    {
+      "department": "SFL, PRM and MERL",
+      "email": null,
+      "emp_code": "217",
+      "first_name": "Yared",
+      "last_name": "Wubie",
+      "mobile": null
+    },
+    {
+      "department": "Country Finance",
+      "email": null,
+      "emp_code": "220",
+      "first_name": "Yohannes",
+      "last_name": "Assefa",
+      "mobile": null
+    },
+    {
+      "department": "Financial and Market Linkage Solution",
+      "email": null,
+      "emp_code": "244",
+      "first_name": "Binyam",
+      "last_name": "Solomon",
+      "mobile": null
+    },
+    {
+      "department": "Group CTO",
+      "email": null,
+      "emp_code": "262",
+      "first_name": "Natnael",
+      "last_name": "Argaw",
+      "mobile": null
+    },
+    {
+      "department": "Office of the CISO",
+      "email": null,
+      "emp_code": "28",
+      "first_name": "Alazar",
+      "last_name": "Negessu",
+      "mobile": null
+    },
+    {
+      "department": "Country Finance",
+      "email": null,
+      "emp_code": "3",
+      "first_name": "Frehiwot",
+      "last_name": "Tesfaye",
+      "mobile": null
+    },
+    {
+      "department": "Smart Mobility",
+      "email": null,
+      "emp_code": "4",
+      "first_name": "Sisay",
+      "last_name": "Seboka",
+      "mobile": null
+    },
+    {
+      "department": "Financial and Market Linkage Solution",
+      "email": null,
+      "emp_code": "42",
+      "first_name": "Adam",
+      "last_name": "Yeshitila",
+      "mobile": null
+    },
+    {
+      "department": "Admin Support",
+      "email": null,
+      "emp_code": "44",
+      "first_name": "Fatuma",
+      "last_name": "Ali",
+      "mobile": null
+    },
+    {
+      "department": "Group CTO",
+      "email": null,
+      "emp_code": "444",
+      "first_name": "Yodit",
+      "last_name": "Teshome",
+      "mobile": null
+    },
+    {
+      "department": "SFL, PRM and MERL",
+      "email": null,
+      "emp_code": "453",
+      "first_name": "Nathan",
+      "last_name": "Messay",
+      "mobile": null
+    },
+    {
+      "department": "Admin Support",
+      "email": null,
+      "emp_code": "460",
+      "first_name": "Fikre",
+      "last_name": "Chane",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "462",
+      "first_name": "Antony",
+      "last_name": "Omeri",
+      "mobile": null
+    },
+    {
+      "department": "Financial and Market Linkage Solution",
+      "email": null,
+      "emp_code": "53",
+      "first_name": "Zemedkun",
+      "last_name": "Mulugeta",
+      "mobile": null
+    },
+    {
+      "department": "Admin",
+      "email": null,
+      "emp_code": "54",
+      "first_name": "Tekalign",
+      "last_name": "Assefa",
+      "mobile": null
+    },
+    {
+      "department": "Smart Mobility",
+      "email": null,
+      "emp_code": "551",
+      "first_name": "Sintayehu",
+      "last_name": "Getabalew",
+      "mobile": null
+    },
+    {
+      "department": "Digitial Transformation",
+      "email": null,
+      "emp_code": "556",
+      "first_name": "Tewodros",
+      "last_name": "Bekure",
+      "mobile": null
+    },
+    {
+      "department": "Digitial Transformation",
+      "email": null,
+      "emp_code": "614",
+      "first_name": "Haileab",
+      "last_name": "Yohannes",
+      "mobile": null
+    },
+    {
+      "department": "CEO Delivery Unit",
+      "email": null,
+      "emp_code": "630",
+      "first_name": "Yigermal",
+      "last_name": "Meshesha",
+      "mobile": null
+    },
+    {
+      "department": "Admin Support",
+      "email": null,
+      "emp_code": "64",
+      "first_name": "Baye",
+      "last_name": "Bulto",
+      "mobile": null
+    },
+    {
+      "department": "Admin Support",
+      "email": null,
+      "emp_code": "65",
+      "first_name": "Fasika",
+      "last_name": "Cherenet",
+      "mobile": null
+    },
+    {
+      "department": "Admin Support",
+      "email": null,
+      "emp_code": "658",
+      "first_name": "Henok",
+      "last_name": "Getachew",
+      "mobile": null
+    },
+    {
+      "department": "Admin Support",
+      "email": null,
+      "emp_code": "66",
+      "first_name": "Felekech",
+      "last_name": "Demeke",
+      "mobile": null
+    },
+    {
+      "department": "Admin Support",
+      "email": null,
+      "emp_code": "67",
+      "first_name": "Beliyu",
+      "last_name": "Yilma",
+      "mobile": null
+    },
+    {
+      "department": "Financial and Market Linkage Solution",
+      "email": null,
+      "emp_code": "674",
+      "first_name": "Ephrem",
+      "last_name": "Kitila",
+      "mobile": null
+    },
+    {
+      "department": "Admin Support",
+      "email": null,
+      "emp_code": "68",
+      "first_name": "Aregash",
+      "last_name": "Molla",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "696",
+      "first_name": "Amanuel",
+      "last_name": "Awol",
+      "mobile": null
+    },
+    {
+      "department": "Admin",
+      "email": null,
+      "emp_code": "7",
+      "first_name": "Frew",
+      "last_name": "Hunde",
+      "mobile": null
+    },
+    {
+      "department": "Financial and Market Linkage Solution",
+      "email": null,
+      "emp_code": "701",
+      "first_name": "Yididiya",
+      "last_name": "Aklilu",
+      "mobile": null
+    },
+    {
+      "department": "Capital Solutions",
+      "email": null,
+      "emp_code": "703",
+      "first_name": "Tigist",
+      "last_name": "Alem",
+      "mobile": null
+    },
+    {
+      "department": "Group CTO",
+      "email": null,
+      "emp_code": "705",
+      "first_name": "Dibora",
+      "last_name": "Adamu",
+      "mobile": null
+    },
+    {
+      "department": "Skills and Financial Literacy",
+      "email": null,
+      "emp_code": "709",
+      "first_name": "Michael",
+      "last_name": "Zewdu",
+      "mobile": null
+    },
+    {
+      "department": "People and Culture",
+      "email": null,
+      "emp_code": "71",
+      "first_name": "Tensae",
+      "last_name": "Tilahun",
+      "mobile": null
+    },
+    {
+      "department": "IDD",
+      "email": null,
+      "emp_code": "711",
+      "first_name": "Temesgen",
+      "last_name": "Desta",
+      "mobile": null
+    },
+    {
+      "department": "IDD",
+      "email": null,
+      "emp_code": "715",
+      "first_name": "Beakal",
+      "last_name": "Gizachew",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "718",
+      "first_name": "Tsion",
+      "last_name": "Yasin",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "720",
+      "first_name": "Amanuel",
+      "last_name": "Shumi",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "723",
+      "first_name": "Chilenew",
+      "last_name": "Belachew",
+      "mobile": null
+    },
+    {
+      "department": "IT Operations",
+      "email": null,
+      "emp_code": "727",
+      "first_name": "Wossen",
+      "last_name": "Mulugeta",
+      "mobile": null
+    },
+    {
+      "department": "IDD",
+      "email": null,
+      "emp_code": "728",
+      "first_name": "Debela",
+      "last_name": "Desalegn",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "731",
+      "first_name": "Robel",
+      "last_name": "Debebe",
+      "mobile": null
+    },
+    {
+      "department": "Engineering and Technology",
+      "email": null,
+      "emp_code": "75",
+      "first_name": "Shemsu",
+      "last_name": "Juhar",
+      "mobile": null
+    },
+    {
+      "department": "Cyber Security",
+      "email": null,
+      "emp_code": "76",
+      "first_name": "Bereket",
+      "last_name": "Miheret",
+      "mobile": null
+    },
+    {
+      "department": "IDD",
+      "email": null,
+      "emp_code": "762",
+      "first_name": "Habib",
+      "last_name": "Gemmechu",
+      "mobile": null
+    },
+    {
+      "department": "Admin",
+      "email": null,
+      "emp_code": "77",
+      "first_name": "Feven",
+      "last_name": "Gedlu",
+      "mobile": null
+    },
+    {
+      "department": "Engineering and Technology",
+      "email": null,
+      "emp_code": "78",
+      "first_name": "Henok",
+      "last_name": "Demisse",
+      "mobile": null
+    },
+    {
+      "department": "MERL",
+      "email": null,
+      "emp_code": "79",
+      "first_name": "Gelawdios",
+      "last_name": "Bahlibi",
+      "mobile": null
+    },
+    {
+      "department": "Financial and Market Linkage Solution",
+      "email": null,
+      "emp_code": "790",
+      "first_name": "Ermias",
+      "last_name": "Kebede",
+      "mobile": null
+    },
+    {
+      "department": "Engineering and Technology",
+      "email": null,
+      "emp_code": "792",
+      "first_name": "Hiwot",
+      "last_name": "Degamlak",
+      "mobile": null
+    },
+    {
+      "department": "Financial and Market Linkage Solution",
+      "email": null,
+      "emp_code": "793",
+      "first_name": "Hiwot",
+      "last_name": "Mebratu",
+      "mobile": null
+    },
+    {
+      "department": "IDD",
+      "email": null,
+      "emp_code": "794",
+      "first_name": "Matiwos",
+      "last_name": "Desalegn",
+      "mobile": null
+    },
+    {
+      "department": "SHARIA COMPLIANT FMLS",
+      "email": null,
+      "emp_code": "795",
+      "first_name": "Etsegenet",
+      "last_name": "Yesuneh",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "797",
+      "first_name": "Ruth",
+      "last_name": "Tirusew",
+      "mobile": null
+    },
+    {
+      "department": "Program Finance",
+      "email": null,
+      "emp_code": "8",
+      "first_name": "Asrat",
+      "last_name": "Bezabih",
+      "mobile": null
+    },
+    {
+      "department": "IT Operations",
+      "email": null,
+      "emp_code": "801",
+      "first_name": "Nuhamin",
+      "last_name": "Solomon",
+      "mobile": null
+    },
+    {
+      "department": "IDD",
+      "email": null,
+      "emp_code": "803",
+      "first_name": "Fantahun",
+      "last_name": "Bogale",
+      "mobile": null
+    },
+    {
+      "department": "CEO Delivery Unit",
+      "email": null,
+      "emp_code": "81",
+      "first_name": "Lewam",
+      "last_name": "Assefa",
+      "mobile": null
+    },
+    {
+      "department": "People and Culture",
+      "email": null,
+      "emp_code": "811",
+      "first_name": "Natnael",
+      "last_name": "Hunegnaw",
+      "mobile": null
+    },
+    {
+      "department": "CapTech",
+      "email": null,
+      "emp_code": "813",
+      "first_name": "Ezra",
+      "last_name": "Alebel",
+      "mobile": null
+    },
+    {
+      "department": "People and Culture",
+      "email": null,
+      "emp_code": "818",
+      "first_name": "Bethlehem",
+      "last_name": "Chane",
+      "mobile": null
+    },
+    {
+      "department": "CapTech",
+      "email": null,
+      "emp_code": "823",
+      "first_name": "Liban",
+      "last_name": "Abdula",
+      "mobile": null
+    },
+    {
+      "department": "Cyber Security",
+      "email": null,
+      "emp_code": "825",
+      "first_name": "Bete",
+      "last_name": "Aberra",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "827",
+      "first_name": "Kalid",
+      "last_name": "Meftu",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "829",
+      "first_name": "Abebe",
+      "last_name": "Kayimo",
+      "mobile": null
+    },
+    {
+      "department": "AgriFin Tech",
+      "email": null,
+      "emp_code": "835",
+      "first_name": "Haile",
+      "last_name": "Weleslassie",
+      "mobile": null
+    },
+    {
+      "department": "AgriFin Tech",
+      "email": null,
+      "emp_code": "839",
+      "first_name": "Tewodros",
+      "last_name": "Girma",
+      "mobile": null
+    },
+    {
+      "department": "AgriFin Tech",
+      "email": null,
+      "emp_code": "849",
+      "first_name": "Patrick",
+      "last_name": "MurIIthI",
+      "mobile": null
+    },
+    {
+      "department": "Digitial Transformation",
+      "email": null,
+      "emp_code": "856",
+      "first_name": "Yodahe",
+      "last_name": "Tsegaye",
+      "mobile": null
+    },
+    {
+      "department": "People and Culture",
+      "email": null,
+      "emp_code": "857",
+      "first_name": "Sosina",
+      "last_name": "Masresha",
+      "mobile": null
+    },
+    {
+      "department": "IT Operations",
+      "email": null,
+      "emp_code": "858",
+      "first_name": "Eyasu",
+      "last_name": "Tariku",
+      "mobile": null
+    },
+    {
+      "department": "SFL, PRM and MERL",
+      "email": null,
+      "emp_code": "861",
+      "first_name": "Yonathan",
+      "last_name": "Tsedeke",
+      "mobile": null
+    },
+    {
+      "department": "IDD",
+      "email": null,
+      "emp_code": "862",
+      "first_name": "Robel",
+      "last_name": "Habtamu",
+      "mobile": null
+    },
+    {
+      "department": "AgriFin Tech",
+      "email": null,
+      "emp_code": "87",
+      "first_name": "Geremew",
+      "last_name": "Tamir",
+      "mobile": null
+    },
+    {
+      "department": "SFL, PRM and MERL",
+      "email": null,
+      "emp_code": "871",
+      "first_name": "Yohannes",
+      "last_name": "Molla",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "872",
+      "first_name": "Mahlet",
+      "last_name": "Samuel",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "873",
+      "first_name": "Biruh",
+      "last_name": "Aemro",
+      "mobile": null
+    },
+    {
+      "department": "AgriFin Tech",
+      "email": null,
+      "emp_code": "874",
+      "first_name": "Tadios",
+      "last_name": "Fekadu",
+      "mobile": null
+    },
+    {
+      "department": "People and Culture",
+      "email": null,
+      "emp_code": "875",
+      "first_name": "Tesfanesh",
+      "last_name": "Tamirat",
+      "mobile": null
+    },
+    {
+      "department": "People and Culture",
+      "email": null,
+      "emp_code": "876",
+      "first_name": "Mariamawit",
+      "last_name": "Degfu",
+      "mobile": null
+    },
+    {
+      "department": "Skills and Financial Literacy",
+      "email": null,
+      "emp_code": "878",
+      "first_name": "Oliver",
+      "last_name": "Dalizu",
+      "mobile": null
+    },
+    {
+      "department": "Skills and Financial Literacy",
+      "email": null,
+      "emp_code": "88",
+      "first_name": "Feysa",
+      "last_name": "Alemayehu",
+      "mobile": null
+    },
+    {
+      "department": "MERL",
+      "email": null,
+      "emp_code": "881",
+      "first_name": "Joshua",
+      "last_name": "Okafor",
+      "mobile": null
+    },
+    {
+      "department": "IDD",
+      "email": null,
+      "emp_code": "885",
+      "first_name": "Bethelehem",
+      "last_name": "Getachew",
+      "mobile": null
+    },
+    {
+      "department": "IDD",
+      "email": null,
+      "emp_code": "887",
+      "first_name": "Ruth",
+      "last_name": "Alemfentah",
+      "mobile": null
+    },
+    {
+      "department": "Admin Support",
+      "email": null,
+      "emp_code": "89",
+      "first_name": "Tewabech",
+      "last_name": "Girma",
+      "mobile": null
+    },
+    {
+      "department": "Admin Support",
+      "email": null,
+      "emp_code": "893",
+      "first_name": "Fikeru",
+      "last_name": "Saka",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "894",
+      "first_name": "Dagmawi",
+      "last_name": "Teka",
+      "mobile": null
+    },
+    {
+      "department": "Internal Audit and Compliance",
+      "email": null,
+      "emp_code": "895",
+      "first_name": "Houyam",
+      "last_name": "Haidar",
+      "mobile": null
+    },
+    {
+      "department": "Program Delivery",
+      "email": null,
+      "emp_code": "901",
+      "first_name": "Meti",
+      "last_name": "T",
+      "mobile": null
+    },
+    {
+      "department": "MERL",
+      "email": null,
+      "emp_code": "902",
+      "first_name": "Tahmid",
+      "last_name": "Arif",
+      "mobile": null
+    },
+    {
+      "department": "CapTech",
+      "email": null,
+      "emp_code": "903",
+      "first_name": "Vincent",
+      "last_name": "Muagiru",
+      "mobile": null
+    },
+    {
+      "department": "Research and Strategy",
+      "email": null,
+      "emp_code": "905",
+      "first_name": "Wondimu",
+      "last_name": "Woldemichael",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "907",
+      "first_name": "Anita",
+      "last_name": "Mumira",
+      "mobile": null
+    },
+    {
+      "department": "Engineering and Technology",
+      "email": null,
+      "emp_code": "91",
+      "first_name": "Fraol",
+      "last_name": "Abebe",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "910",
+      "first_name": "Henok",
+      "last_name": "Zemedkun",
+      "mobile": null
+    },
+    {
+      "department": "IDD",
+      "email": null,
+      "emp_code": "928",
+      "first_name": "David",
+      "last_name": "Musau",
+      "mobile": null
+    },
+    {
+      "department": "Program Finance",
+      "email": null,
+      "emp_code": "929",
+      "first_name": "Aderajew",
+      "last_name": "Shumye",
+      "mobile": null
+    },
+    {
+      "department": "Cyber Security",
+      "email": null,
+      "emp_code": "93",
+      "first_name": "Hidaya",
+      "last_name": "Yusuf",
+      "mobile": null
+    },
+    {
+      "department": "IDD",
+      "email": null,
+      "emp_code": "930",
+      "first_name": "Nabil",
+      "last_name": "Mohammed",
+      "mobile": null
+    },
+    {
+      "department": "Financial and Market Linkage Solution",
+      "email": null,
+      "emp_code": "937",
+      "first_name": "Tinsae",
+      "last_name": "Wondimu",
+      "mobile": null
+    },
+    {
+      "department": "Financial and Market Linkage Solution",
+      "email": null,
+      "emp_code": "944",
+      "first_name": "Yidenek",
+      "last_name": "Desalegn",
+      "mobile": null
+    },
+    {
+      "department": "MERL",
+      "email": null,
+      "emp_code": "949",
+      "first_name": "Abraham",
+      "last_name": "Selamu",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "95",
+      "first_name": "Abel",
+      "last_name": "Mulugeta",
+      "mobile": null
+    },
+    {
+      "department": "MERL",
+      "email": null,
+      "emp_code": "950",
+      "first_name": "Yonathan",
+      "last_name": "Gizachew",
+      "mobile": null
+    },
+    {
+      "department": "AgriFin Tech",
+      "email": null,
+      "emp_code": "951",
+      "first_name": "Abdurahman",
+      "last_name": "Mustafa",
+      "mobile": null
+    },
+    {
+      "department": "Program Delivery",
+      "email": null,
+      "emp_code": "954",
+      "first_name": "Abrar",
+      "last_name": "Amedella",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "96",
+      "first_name": "Metasebiya",
+      "last_name": "Mulugeta",
+      "mobile": null
+    },
+    {
+      "department": "Program Delivery",
+      "email": null,
+      "emp_code": "961",
+      "first_name": "Kinfemichael",
+      "last_name": "Yibkaw",
+      "mobile": null
+    },
+    {
+      "department": "Capital Solutions",
+      "email": null,
+      "emp_code": "969",
+      "first_name": "Jeff",
+      "last_name": "Temba",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "97",
+      "first_name": "Naol",
+      "last_name": "Arega",
+      "mobile": null
+    },
+    {
+      "department": "Cyber Security",
+      "email": null,
+      "emp_code": "982",
+      "first_name": "Ahmed",
+      "last_name": "Salah",
+      "mobile": null
+    },
+    {
+      "department": "AgriFin Tech",
+      "email": null,
+      "emp_code": "988",
+      "first_name": "Kaleab",
+      "last_name": "Nigussie",
+      "mobile": null
+    },
+    {
+      "department": "AgriFin Tech",
+      "email": null,
+      "emp_code": "989",
+      "first_name": "Kaleab",
+      "last_name": "Tekalign",
+      "mobile": null
+    },
+    {
+      "department": "IFI",
+      "email": null,
+      "emp_code": "99",
+      "first_name": "Tadesse",
+      "last_name": "Angaw",
+      "mobile": null
+    },
+    {
+      "department": "Unclassified",
+      "email": null,
+      "emp_code": "9949",
+      "first_name": "Ermejaw",
+      "last_name": "Belay",
+      "mobile": null
+    },
+    {
+      "department": "Unclassified",
+      "email": null,
+      "emp_code": "9970",
+      "first_name": "Visitor-30",
+      "last_name": "0",
+      "mobile": null
+    },
+    {
+      "department": "Unclassified",
+      "email": null,
+      "emp_code": "9971",
+      "first_name": "Visitor-29",
+      "last_name": "0",
+      "mobile": null
+    },
+    {
+      "department": "Unclassified",
+      "email": null,
+      "emp_code": "9972",
+      "first_name": "Visitor-28",
+      "last_name": "0",
+      "mobile": null
+    },
+    {
+      "department": "Unclassified",
+      "email": null,
+      "emp_code": "9973",
+      "first_name": "Visitor-27",
+      "last_name": "0",
+      "mobile": null
+    },
+    {
+      "department": "Unclassified",
+      "email": null,
+      "emp_code": "9974",
+      "first_name": "Visitor-26",
+      "last_name": "0",
+      "mobile": null
+    },
+    {
+      "department": "Unclassified",
+      "email": null,
+      "emp_code": "9975",
+      "first_name": "Visitor-25",
+      "last_name": "0",
+      "mobile": null
+    },
+    {
+      "department": "Unclassified",
+      "email": null,
+      "emp_code": "9976",
+      "first_name": "Visitor-24",
+      "last_name": "0",
+      "mobile": null
+    },
+    {
+      "department": "Unclassified",
+      "email": null,
+      "emp_code": "9977",
+      "first_name": "Visitor-23",
+      "last_name": "0",
+      "mobile": null
+    },
+    {
+      "department": "Unclassified",
+      "email": null,
+      "emp_code": "9978",
+      "first_name": "Visitor-22",
+      "last_name": "0",
+      "mobile": null
+    },
+    {
+      "department": "Unclassified",
+      "email": null,
+      "emp_code": "9979",
+      "first_name": "Visitor-21",
+      "last_name": "0",
+      "mobile": null
+    },
+    {
+      "department": "Unclassified",
+      "email": null,
+      "emp_code": "9980",
+      "first_name": "Visitor-20",
+      "last_name": "0",
+      "mobile": null
+    },
+    {
+      "department": "Unclassified",
+      "email": null,
+      "emp_code": "9981",
+      "first_name": "Visitor-19",
+      "last_name": "0",
+      "mobile": null
+    },
+    {
+      "department": "Unclassified",
+      "email": null,
+      "emp_code": "9982",
+      "first_name": "Visitor-18",
+      "last_name": "0",
+      "mobile": null
+    },
+    {
+      "department": "Unclassified",
+      "email": null,
+      "emp_code": "9983",
+      "first_name": "Visitor-17",
+      "last_name": "0",
+      "mobile": null
+    },
+    {
+      "department": "Unclassified",
+      "email": null,
+      "emp_code": "9984",
+      "first_name": "Visitor-16",
+      "last_name": "0",
+      "mobile": null
+    },
+    {
+      "department": "Unclassified",
+      "email": null,
+      "emp_code": "9985",
+      "first_name": "Visitor-15",
+      "last_name": "0",
+      "mobile": null
+    },
+    {
+      "department": "Unclassified",
+      "email": null,
+      "emp_code": "9986",
+      "first_name": "Visitor-14",
+      "last_name": "0",
+      "mobile": null
+    },
+    {
+      "department": "Unclassified",
+      "email": null,
+      "emp_code": "9987",
+      "first_name": "Visitor-13",
+      "last_name": "0",
+      "mobile": null
+    },
+    {
+      "department": "Unclassified",
+      "email": null,
+      "emp_code": "9988",
+      "first_name": "Visitor-12",
+      "last_name": "0",
+      "mobile": null
+    },
+    {
+      "department": "Unclassified",
+      "email": null,
+      "emp_code": "9989",
+      "first_name": "Visitor-11",
+      "last_name": "0",
+      "mobile": null
+    },
+    {
+      "department": "Unclassified",
+      "email": null,
+      "emp_code": "9990",
+      "first_name": "Visitor-10",
+      "last_name": "0",
+      "mobile": null
+    },
+    {
+      "department": "Unclassified",
+      "email": null,
+      "emp_code": "9991",
+      "first_name": "Visitor-9",
+      "last_name": "0",
+      "mobile": null
+    },
+    {
+      "department": "Unclassified",
+      "email": null,
+      "emp_code": "9992",
+      "first_name": "Visitor-8",
+      "last_name": "0",
+      "mobile": null
+    },
+    {
+      "department": "Unclassified",
+      "email": null,
+      "emp_code": "9993",
+      "first_name": "Visitor-7",
+      "last_name": "0",
+      "mobile": null
+    },
+    {
+      "department": "Unclassified",
+      "email": null,
+      "emp_code": "9994",
+      "first_name": "Visitor-6",
+      "last_name": "0",
+      "mobile": null
+    },
+    {
+      "department": "Unclassified",
+      "email": null,
+      "emp_code": "9995",
+      "first_name": "Visitor-5",
+      "last_name": "0",
+      "mobile": null
+    },
+    {
+      "department": "Unclassified",
+      "email": null,
+      "emp_code": "9996",
+      "first_name": "Visitor-4",
+      "last_name": "0",
+      "mobile": null
+    },
+    {
+      "department": "Unclassified",
+      "email": null,
+      "emp_code": "9997",
+      "first_name": "Visitor-3",
+      "last_name": "0",
+      "mobile": null
+    },
+    {
+      "department": "Unclassified",
+      "email": null,
+      "emp_code": "9998",
+      "first_name": "Visitor-2",
+      "last_name": "0",
+      "mobile": null
+    },
+    {
+      "department": "Unclassified",
+      "email": null,
+      "emp_code": "9999",
+      "first_name": "Visitor-1",
+      "last_name": "0",
+      "mobile": null
+    }
+  ],
+  "success": true
+}
